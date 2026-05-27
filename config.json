@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersalculate",
+        "uuid": 10366047,
+        "checksum": "l6djck"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
